@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Temoor Iqbal!
 
 🚀 A passionate **Full Stack Developer** with a strong focus on **React Native** and modern JavaScript frameworks.  
-🧠 With over **2 years of experience**, I love building elegant, scalable, and high-performance mobile and web applications.
+🧠 With over **1 years of experience**, I love building elegant, scalable, and high-performance mobile and web applications.
 
 ---
 
